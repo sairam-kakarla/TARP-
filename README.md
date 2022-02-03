@@ -1,6 +1,6 @@
 # TARP
 
-##Introduction
+## Introduction
 Water is one of the fundamental needs of humans. 
 Approx 30% of water requirement of a individual is water to inefficient 
 distribution of water or due to human errors. 
@@ -43,7 +43,7 @@ control it and alert the user if needed.
 This data can also help the water providers to be more efficient with their
 timings as to when they need to provide water.
 
-##Uniqueness
+## Uniqueness
 Automated solution.
 Not limited to home usage.
 By changing the sensors and tinkering software, can be implemented in 
@@ -52,7 +52,7 @@ Saves money and conserves energy.
 Leak and malfunction detection.
 Data collection.
 
-##Current Status
+## Current Status
 Currently we have identified all the hardware requirements of this project and are 
 in the process of implementing them in Tinkercad.
 We are also looking at the design and integration of various components like Water 
