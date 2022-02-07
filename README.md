@@ -63,11 +63,15 @@ purpose of saving wastage of water and regulating its usage.
 
 ## Components
 
-microcontroller: nodemcu esp8266.
-depth-sensor: ultrasnoic sensors/lazer.
-IOT: esp8266 integrated into esp8266.
-Relay(5v/based on the motor running voltage).
-Buzzer.
+1.microcontroller: nodemcu esp8266.
+
+2.depth-sensor: ultrasnoic sensors/lazer.
+
+3.IOT: esp8266 integrated into esp8266.
+
+4.Relay(5v/based on the motor running voltage).
+
+5.Buzzer.
 
 ## Block Diagram(Design)
 ![image](https://user-images.githubusercontent.com/66490111/152822665-63ff8ae5-b3ef-493c-b70c-9bba882e7156.png)
