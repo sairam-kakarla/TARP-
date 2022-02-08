@@ -52,6 +52,7 @@ Saves money and conserves energy.
 Leak and malfunction detection.
 Data collection.
 
+
 ## Current Status
 Currently we have identified all the hardware requirements of this project and are 
 in the process of implementing them in Tinkercad.
@@ -62,7 +63,18 @@ purpose of saving wastage of water and regulating its usage.
 
 ## Components
 
-## Design
+1.microcontroller: nodemcu esp8266.
+
+2.depth-sensor: ultrasnoic sensors/lazer.
+
+3.IOT: esp8266 integrated into esp8266.
+
+4.Relay(5v/based on the motor running voltage).
+
+5.Buzzer.
+
+## Block Diagram(Design)
+![image](https://user-images.githubusercontent.com/66490111/152822665-63ff8ae5-b3ef-493c-b70c-9bba882e7156.png)
 
 ## Team Members
 
