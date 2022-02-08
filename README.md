@@ -67,7 +67,7 @@ purpose of saving wastage of water and regulating its usage.
 
 2.depth-sensor: ultrasnoic sensors/lazer.
 
-3.IOT: esp8266 integrated into esp8266.
+3.IOT: esp8266 integrated into nodemcu
 
 4.Relay(5v/based on the motor running voltage).
 
