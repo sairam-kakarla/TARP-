@@ -71,21 +71,21 @@ Dashboard for the collected data generated.
 ## Components
 
 1.Microcontroller: nodemcu esp8266.  
-![image](node.jpeg)  
+![image](images/node.jpeg)  
 
 2.Depth-sensor: ultrasonic sensors.  
-![image](ul.jpeg)  
+![image](images/ul.jpeg)  
 
 3.IOT: Blynk Free Tier Server and Google drive  
-[Blynk](https://blynk.io/)    
-![image](blynk.png)  
+[Blynk](images/https://blynk.io/)    
+![image](images/blynk.png)  
 [dataset]()    
-![image](drive.png)    
+![image](images/drive.png)    
 
 4.Relay(5v/based on the motor running voltage).    
   
 5.Buzzer.    
-![image](bz.jpeg)    
+![image](images/bz.jpeg)    
 
 ## Block Diagram(Design)
 ![image](https://user-images.githubusercontent.com/66490111/152822665-63ff8ae5-b3ef-493c-b70c-9bba882e7156.png)
