@@ -52,22 +52,29 @@ Saves money and conserves energy.
 Leak and malfunction detection.
 Data collection.
 
-
+## Milestones
+- [x] Concept and Design
+- [x] Components and assembly
+- [x] Circuit design
+- [x] Water level moniter
+- [x] Data Collection
+- [x] Vizualization
+- [ ] Water level controller
+- [ ] Integration
+- [ ] Documentation
 ## Current Status
-Currently we have identified all the hardware requirements of this project and are 
-in the process of implementing them in Tinkercad.
-We are also looking at the design and integration of various components like Water 
-level identifier, Water level controller, Data collection, Analysis etc 
-We’re also working on how they can communicate effectively and help in the overall 
-purpose of saving wastage of water and regulating its usage.
+Deisgn and concept is finalized through brainstroming.  
+Components have been purchased.  
+Blynk server integration and data collection from 2 house for 14 days done.  
+Dashboard for the collected data generated.
 
 ## Components
 
-1.microcontroller: nodemcu esp8266.
+1.Microcontroller: nodemcu esp8266.
 
-2.depth-sensor: ultrasnoic sensors/lazer.
+2.Depth-sensor: ultrasnoic sensors.
 
-3.IOT: esp8266 integrated into nodemcu
+3.IOT: Blynk Free Tier Server and Google drive
 
 4.Relay(5v/based on the motor running voltage).
 
