@@ -79,7 +79,7 @@ Dashboard for the collected data generated.
 3.IOT: Blynk Free Tier Server and Google drive  
 [Blynk](images/https://blynk.io/)    
 ![image](images/blynk.png)  
-[dataset]()    
+[dataset](data/data_2_houses.xlsx)      
 ![image](images/drive.png)    
 
 4.Relay(5v/based on the motor running voltage).    
