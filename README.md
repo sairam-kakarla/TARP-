@@ -59,8 +59,8 @@ Data collection.
 - [x] Water level moniter
 - [x] Data Collection
 - [x] Vizualization
-- [ ] Water level controller
-- [ ] Integration
+- [x] Water level controller
+- [x] Integration
 - [ ] Documentation
 ## Current Status
 Deisgn and concept is finalized through brainstroming.  
@@ -90,7 +90,10 @@ Dashboard for the collected data generated.
 ## Block Diagram(Design)
 ![image](https://user-images.githubusercontent.com/66490111/152822665-63ff8ae5-b3ef-493c-b70c-9bba882e7156.png)
 
+## Implementation
+![image](data/Tarp.png)
+
 ## Team Members
 
-- Lakshmi Sairam Kakarla
+- [Lakshmi Sairam Kakarla](https://github.com/sairam-kakarla)
 - S Abishek Sriram 
